@@ -60,7 +60,7 @@ Intuition behind formula:     P(A|B) = P(A ∩ B) / P(B)
 -----------------------------------
  * P(A ∩ B) - Both events B and A need to occur simultaneously
  * P(B) - The conditional probability requires that event B occurs
-P(A|B) and P(B|A) is not the same.
+P(A|B) and P(B|A) are not equal.
 
 Law of Total Probability
 ---------------------------------
