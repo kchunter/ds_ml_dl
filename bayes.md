@@ -15,7 +15,7 @@ If the sets A and B do not touch at all, their union would simply be their sum
 
 A ∩ B = Ø -> A ∪ B = A + B
 
-No elements is in both sets simultaneously
+No elements are in both sets simultaneously
 
 No double-counting
 
